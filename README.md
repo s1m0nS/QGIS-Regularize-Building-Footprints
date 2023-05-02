@@ -33,5 +33,5 @@ Note that this repo is a work in progress, the expected working version will be 
   title="Vectorization option"
   width="225" height="300"
   align="right">
- 
+
 </p>
