@@ -1,9 +1,9 @@
 # QGIS-Regularize-Building-Footprints
-This QGIS plugin regularizes building footprints detected with deep learning, including binary semantic and instance segmentation images.
+This QGIS plugin regularizes building footprints detected with deep learning, including binary semantic and instance segmentation.
 
-The regularization approach is implemented from [projectRegularization](https://github.com/zorzi-s/projectRegularization), from the publication Machine-learned regularization and polygonization of building segmentation masks", ICPR 2021.
+The regularization approach [projectRegularization](https://github.com/zorzi-s/projectRegularization) was implemented from the publication Machine-learned regularization and polygonization of building segmentation masks", ICPR 2021 on the MapAI: Precision in building segmentation challenge. We have developed an end-to-end binary semantic segmentation workflow in PyTorch and applied it on the MapAI dataset. The developed framework [mapAI regularizaton](https://github.com/s1m0nS/mapAI-regularization) can be used to produce building segmentation maps for the plugin.
 
-The end-to-end binary semantic segmentation workflow on the MapAI dataset can be used to produce segmentation maps for the plugin: [mapAI regularizaton](https://github.com/s1m0nS/mapAI-regularization).
+Note that the plugin supports other segmentations too.
 
 ### Input:
 - segmented image either in .PNG or .TIF
