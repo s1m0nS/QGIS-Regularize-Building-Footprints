@@ -19,7 +19,7 @@ Note that this repo is a work in progress, the expected working version is 24/06
 <p align="center">
   <img src="https://github.com/s1m0nS/QGIS-Regularize-Building-Footprints/blob/main/img/plugin-gui.png"
   title="The user interface of the plugin"
-  width="450" height="600"
+  width="225" height="300"
   align="center"/>
 </p>
 
@@ -27,15 +27,12 @@ Note that this repo is a work in progress, the expected working version is 24/06
   <img src="https://github.com/s1m0nS/QGIS-Regularize-Building-Footprints/blob/main/img/plugin-regularization.png"
   alt="The plugin GUI"
   title="Regularization option"
-  width="450" height="600"
+  width="225" height="300"
   align="left"/>
   
   <img src="https://github.com/s1m0nS/QGIS-Regularize-Building-Footprints/blob/main/img/plugin-vectorization.png"
   title="Vectorization option"
-  width="450" height="600"
+  width="225" height="300"
   align="right"/>
        
   </p>
-  
-
-
