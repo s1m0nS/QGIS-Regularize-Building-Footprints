@@ -30,6 +30,6 @@ Note that this repo is a work in progress, the expected working version will be 
   
   <img src="https://github.com/s1m0nS/QGIS-Regularize-Building-Footprints/blob/main/img/plugin-vectorization.png"
   title="Vectorization option"
-  width="225" height="300" >
+  width="225" height="300"
   align="right">
   </p>
