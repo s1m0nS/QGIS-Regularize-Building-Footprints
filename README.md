@@ -6,14 +6,13 @@ The regularization approach [projectRegularization](https://github.com/zorzi-s/p
 Note that the plugin supports other segmentations too that are in the appropriate image format.
 
 ### Input:
-- segmented image either in .PNG or .TIF
+- segmented image either in .png or .tif
 
 ### Output:
-- regularized image in .PNG or .TIF
-- vector file from regularization in .GPKG
+- regularized image in .png or .tif
+- vector file from regularization in .gpkg
 
 The GUI is presented below and the functionality is shown.
-
 
 Note that this repo is a work in progress, the expected working version is 24/06/2023.
 
