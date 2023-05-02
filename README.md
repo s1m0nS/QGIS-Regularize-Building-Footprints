@@ -1,6 +1,8 @@
 # QGIS-Regularize-Building-Footprints
 This QGIS plugin regularizes building footprints detected with deep learning, including binary semantic and instance segmentation images.
 
+The regularization approach is implemented from [projectRegularization](https://github.com/zorzi-s/projectRegularization)
+
 ### Input:
 - segmented image either in .PNG or .TIF
 
