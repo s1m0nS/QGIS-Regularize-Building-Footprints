@@ -13,6 +13,6 @@ The GUI is presented below and the functionality is shown.
 
 Note that this repo is a work in progress, the expected working version is 24/06/2023.
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/s1m0nS/QGIS-Regularize-Building-Footprints/img/plugin-gui.png)
 
 
