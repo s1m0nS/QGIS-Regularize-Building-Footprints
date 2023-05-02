@@ -17,6 +17,7 @@ The GUI is presented below and the functionality is shown.
 Note that this repo is a work in progress, the expected working version will be published on 24/06/2023.
 
 <p>
+  
   <img src="https://github.com/s1m0nS/QGIS-Regularize-Building-Footprints/blob/main/img/plugin-gui.png"
   title="The user interface of the plugin"
   width="225" height="300"
@@ -32,4 +33,5 @@ Note that this repo is a work in progress, the expected working version will be 
   title="Vectorization option"
   width="225" height="300"
   align="right">
-  </p>
+
+</p>
