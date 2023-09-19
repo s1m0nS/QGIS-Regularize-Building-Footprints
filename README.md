@@ -14,7 +14,7 @@ Note that the plugin supports other segmentations too that are in the appropriat
 
 The GUI is presented below and the functionality is shown.
 
-Note that this repo is a work in progress, the expected working version will be published on 24/06/2023.
+Note that this repo is a work in progress, the expected working version will be published soon.
 
 <p>
   
